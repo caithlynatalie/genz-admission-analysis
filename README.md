@@ -5,6 +5,7 @@ DSCP Final Project
 
 ## 1. Introduction & Background
 This research project investigates the correlation between daily social media usage and university admission success by analyzing how digital habits influence the students academic performance and extracurricular engagement. By utilizing a dataset of 1,000,000 students, the study aims to validate an academic trade-off hypothesis, where higher social_media_hours may lead to a decrease in high_school_gpa and volunteer_hours. The research also explores the impact of digital consumption on subjective admission criteria like the essay_score, identifying whether excessive social media time begins to noticeably decrease a candidate's probability of admission_status. 
+Dataset : https://www.kaggle.com/datasets/sharmajicoder/genn-z-college-admission-dataset/data
 
 ## 2. Research Objectives
 * **To test the Academic Trade-off Hypothesis** by measuring the impact of daily social media hours on quantitative metrics (High School GPA and accumulated volunteer hours).
