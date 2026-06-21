@@ -30,6 +30,7 @@ Then, the bar chart shown across all three user groups, the volume of admitted s
 ### **1\. Social Media Hours vs. Admission Probability**
 
 This plot tests the hypothesis whether increasing social media time decreases a student's chances of getting into college. The data shows that the probability of admission remains constant at approximately 0.88 (88%) across all groups.
+![](img/Addmission_Probability.png)  
 
 ### **2\. Social Media Hours vs. High School GPA**
 
