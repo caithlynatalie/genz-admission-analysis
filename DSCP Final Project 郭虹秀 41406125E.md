@@ -13,7 +13,7 @@ The **Gen-Z College Admission Prediction Dataset** is a large-scale synthetic da
 
 2. **Pseudocode and/or flowchart**    
      
-   **![][img/pseudo 1.png]**  
+   ![](img/pseudo 1.png)  
    **![][image2]**  
  
 
