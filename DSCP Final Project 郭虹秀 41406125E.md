@@ -11,12 +11,12 @@ The **Gen-Z College Admission Prediction Dataset** is a large-scale synthetic da
 
 [https://www.kaggle.com/datasets/sharmajicoder/genn-z-college-admission-dataset/data](https://www.kaggle.com/datasets/sharmajicoder/genn-z-college-admission-dataset/data)
 
-2. **Pseudocode and/or flowchart**    
+### **2. Pseudocode and/or flowchart**    
      
    ![](img/pseudo1.png)  
    ![](img/pseudo2.png)  
 
-3. **At least one visualization**  
+### **3. At least one visualization**  
 
 The pie chart reveals that the vast majority of the 1,000,000 surveyed students fall into the Medium Usage (3-6h) category at 59.58%, while Low Users (0-3h) and High Users (6h+) constitute 21.02% and 19.40%.   
 ![](img/Usage_Time.png)  
@@ -38,18 +38,18 @@ This plot tests the hypothesis whether increasing social media time decreases a 
 
 ![](img/GPA.png)
 
-**3\. Social Media Hours vs. Volunteer Time** 
+### **3\. Social Media Hours vs. Volunteer Time** 
 
 This plot tests the hypothesis whether heavy social media users will have significantly fewer volunteer hours due to time displacement. The data shown for volunteer hours remains completely flat at \~99.4 hours, showing no deviation regardless of the student's screen time.   
 ![](img/Volunteer.png)
 
-**4\. Social Media Hours vs. Essay Score** 
+### **4\. Social Media Hours vs. Essay Score** 
 
 This plot tests the hypothesis whether high screen time correlates with reduced cognitive focus, leading to lower-quality application essays and depressed scores. The essay score sits constantly at a mean of \~74.9 points out of 100 across all behavioral groups. 
 
 ![](img/Essay_Score.png)
 
-**5\. Academic Trade Off Summary Table**
+### **5\. Academic Trade Off Summary Table**
 
 | Social Media Group | Average GPA  | Average Volunteer Time  | Average Essay Score  | Admission Probability   |
 | :---: | :---: | :---: | :---: | :---: |
@@ -61,7 +61,7 @@ This plot tests the hypothesis whether high screen time correlates with reduced 
 
 Based on the analysis over the dataset of 1,000,000 students, the Academic Trade-off Hypothesis is **rejected**. The evidence demonstrates that daily social media usage behaves as a completely neutral variable within this population, as proven by correlation coefficient of exactly **0.00** across all academic performance and admission vectors. When segmented into low, medium, and high digital usage, the conditional means for all performance metrics remained completely stagnant, showing an average GPA locked at **\~3.19**, extracurricular community service stable at **\~99.4 hours**, and standardized essay scores at **\~74.9 out of 100**. This absolute lack of statistical variance indicates that heavy digital screen time does not displace structured academic activities or degrade a student's cognitive and qualitative writing capabilities. Lastly, the probability of university admission is a horizontal of a success rate of **\~88%**, showing an identical proportional ratio of admitted versus rejected students regardless of screen time.
 
-4. **Upload the notebook to GitHub and create a GitHub page** 
+### **4. Upload the notebook to GitHub and create a GitHub page** 
 
 Please find the project files at:
 
