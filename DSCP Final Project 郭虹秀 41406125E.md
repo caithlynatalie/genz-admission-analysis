@@ -1,7 +1,7 @@
 **DSCP Final Project**  
 **41406125E 郭虹秀 [41406125e@gapps.ntnu.edu.tw](mailto:41406125e@gapps.ntnu.edu.tw)**
 
-1. **Short sentences addressing the objective(s)**  
+### **1. Short sentences addressing the objective(s)**  
 
 This research project investigates the correlation between daily social media usage and university admission success by analyzing how digital habits influence the students academic performance and extracurricular engagement. By utilizing a dataset of 1,000,000 students, the study aims to validate an academic trade-off hypothesis, where higher social\_media\_hours may lead to a decrease in high\_school\_gpa and volunteer\_hours. The research also explores the impact of digital consumption on subjective admission criteria like the essay\_score, identifying whether excessive social media time begins to noticeably decrease a candidate's probability of admission\_status. 
 
