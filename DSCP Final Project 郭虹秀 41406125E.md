@@ -34,7 +34,7 @@ This plot tests the hypothesis whether increasing social media time decreases a 
 
 **2\. Social Media Hours vs. High School GPA**
 
-### This plot tests the hypothesis whether excessive screen time degrades academic focus. The data shows that the average GPA stays locked at 3.18 regardless of digital consumption.
+This plot tests the hypothesis whether excessive screen time degrades academic focus. The data shows that the average GPA stays locked at 3.18 regardless of digital consumption.
 
 ![](img/GPA.png)
 
