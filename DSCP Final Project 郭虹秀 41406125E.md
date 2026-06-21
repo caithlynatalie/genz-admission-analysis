@@ -19,11 +19,11 @@ The **Gen-Z College Admission Prediction Dataset** is a large-scale synthetic da
 3. **At least one visualization**  
 
 The pie chart reveals that the vast majority of the 1,000,000 surveyed students fall into the Medium Usage (3-6h) category at 59.58%, while Low Users (0-3h) and High Users (6h+) constitute 21.02% and 19.40%.   
-![][image3]
+![](img/Usage_Time.png)  
 
 Then, the bar chart shown across all three user groups, the volume of admitted students massively eclipses those who were not admitted, which maintains a completely identical proportional ratio regardless of screen time. 
 
-![][image4]
+![](img/Usage_Addmission.png)  
 
 ### 
 
